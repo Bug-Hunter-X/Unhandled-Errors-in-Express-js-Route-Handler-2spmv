@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Express.js applications: insufficient error handling in route handlers.  The `bug.js` file showcases a route that lacks proper error handling for database queries.  The `bugSolution.js` file provides a corrected version with improved error handling, demonstrating best practices for robustness and user experience.
